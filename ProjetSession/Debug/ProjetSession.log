@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\guill\desktop\projetsession\projetsession\projetsession\main.cpp(80): error C2065: 'carte1' : identificateur non déclaré
+c:\users\guill\desktop\projetsession\projetsession\projetsession\main.cpp(80): error C2228: la partie gauche de '.getImage' doit avoir un class/struct/union
+  c:\users\guill\desktop\projetsession\projetsession\projetsession\main.cpp(80): note: le type est 'unknown-type'
+  Carte.cpp
+  Génération de code en cours...
